@@ -29,3 +29,9 @@ tensorflow-gpu            1.11.0
 tensorflow-tensorboard    0.4.0                 
 xlrd                      1.0.0              
 ```
+## 检测数据
+链接：https://pan.baidu.com/s/1smLJRkJIRNIa8uXQBT7SxQ 
+提取码：qzrs 
+## model
+链接：https://pan.baidu.com/s/1ejL78dj3L7D5H0fvzOZaNw 
+提取码：84ig 
